@@ -1,1 +1,1 @@
-return require('./lib/slf4js.js');
+module.exports = require('./lib/slf4j.js');
