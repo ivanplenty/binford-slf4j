@@ -1,0 +1,26 @@
+{
+  "name": "binford-slf4j",
+  "version": "0.0.1",
+  "author": "Ivan Plenty <ivanplenty@gmail.com>",
+  "description": "SLF4J-like adapter for JavaScript",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanplenty/binford-slf4j.git"
+  },
+  "keywords": [
+    "binford",
+    "log",
+    "logger",
+    "logging",
+    "log4j",
+    "slf4j"
+  ],
+  "dependencies" : {
+    "lodash"   :  "2.4.x",
+    "binford-logger" : "0.0.x"
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
