@@ -16,13 +16,13 @@
     "log4j",
     "slf4j"
   ],
-  "dependencies" : {
-    "lodash"   :  "2.4.x",
-    "binford-logger" : "0.0.x"
+  "dependencies": {
+    "binford-logger": "0.0.x",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "mocha"    :  "1.15.x",
-    "should" : "2.1.1"
+    "mocha": "^7.1.1",
+    "should": "2.1.1"
   },
   "license": "MIT"
 }
